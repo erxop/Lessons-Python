@@ -1,0 +1,15 @@
+firstname = input("Enter your First Name:")
+lastname = input("Enter your Last Name:")
+print("Your Full name is ", firstname, lastname)
+
+firstname = input("Enter your First Name:")
+lastname = input("Enter your Last Name:")
+uniname = input("Enter the name of your uni:")
+major = input("Enter your major:")
+faculty = input("Enter your faculty:")
+year = input("What year are you currently in:")
+department = input("What is your department:")
+goal = input("What is your goal after uni:")
+favoritesubject = input("What is your favorit subject:")
+favoritefood = input("Enter your favorite food as a student in uni:")
+
